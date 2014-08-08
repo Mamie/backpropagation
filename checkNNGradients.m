@@ -1,4 +1,4 @@
-function checkNNGradients(lambda)
+function = checkNNGradients(lambda)
 %CHECKNNGRADIENTS Creates a small neural network to check the
 %backpropagation gradients
 %   CHECKNNGRADIENTS(lambda) Creates a small neural network to check the
