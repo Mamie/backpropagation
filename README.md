@@ -5,5 +5,24 @@ This is the week 4 assignment of [Coursera Machine Learning] (https://www.course
 
 Summary
 ------
+In this program, the backpropagation algorithm is implemented for neural networks and applied to the task of hand-written digit recognition.
+
+Completed methods are as follows:
+
+sigmoidGradient.m - Compute the gradient of the sigmoid function <br\ >
+randInitializeWeights.m - Randomly initialize weights <br\ >
+nnCostFunction.m - Neural network cost function <br\ >
+
+Starter code and data sets provided by the course is shown below:
+> ex4.m - script for stepping through the program <br\ >
+> ex4data1.mat - Training set of hand-written digits <br\ >
+> ex4weights.mat - Neural network parameters for exercise 4 <br\ >
+> displayData.m - Function to help visualize the dataset <br\ >
+> fmincg.m - Function minimization routine <br\ >
+> sigmoid.m - Sigmoid function <br\ >
+> computeNumericalGradient.m - Numerically compute gradients <br\ >
+> checkNNGradients.m - Function to help check gradients <br\ >
+> debugInitializeWeights.m - Function for initializing weights <br\ >
+> predict.m - Neural network prediction function <br\ >
 
 
