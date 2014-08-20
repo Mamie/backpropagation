@@ -5,7 +5,7 @@ This is the week 4 assignment of [Coursera Machine Learning] (https://www.course
 
 Summary
 ------
-In this program, the backpropagation algorithm is implemented for a 3-layered neural networks and applied to the task of hand-written digit recognition. After feedforward step of the neural network that returns the cost function, backpropagation algorithm is used to compute the gradients for the parameters for the regularized neural network.
+In this program, the backpropagation algorithm is implemented for a 3-layered neural networks and applied to the task of hand-written digit recognition. After feedforward step of the neural network that returns the cost function, backpropagation algorithm is used to compute the gradients for the parameters for the regularized neural network. In addition, random initialization of the parameters is used for symmetry breaking. 
 
 Completed methods are as follows:
 
@@ -24,4 +24,3 @@ Starter code and data sets provided by the course is shown below:
 > checkNNGradients.m - Function to help check gradients <br\ >
 > debugInitializeWeights.m - Function for initializing weights <br\ >
 > predict.m - Neural network prediction function <br\ >
-
